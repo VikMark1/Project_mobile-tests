@@ -43,3 +43,10 @@
 
 # Notification with Jenkins build results report is sent automatically to Telegram-bot
 ![This is an image](media/telegram.jpg)
+
+# Allure TestOps project provides mobile test cases and tests launch data
+![This is an image](media/testops_TCs.png)
+![This is an image](media/testops_dashboard.png)
+
+# Mobile test cases as well as information of autotests launches are integrated in Atlassian Jira
+![This is an image](media/jira.png)
