@@ -39,5 +39,9 @@
 #### Graphs report tab
 ![This is an image](media/graphs_mobile.png)
 
+<a name="Video"></a>
+# Example of test execution in Browserstack
+![](media/video1.gif)
+
 # Notification with Jenkins build results report is sent automatically to Telegram-bot
 ![This is an image](media/telegram.jpg)
