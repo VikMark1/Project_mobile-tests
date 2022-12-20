@@ -37,6 +37,9 @@
 #### Graphs report tab
 ![This is an image](media/graphs_mobile.png)
 
+#### Behaviors report tab
+![This is an image](media/Behaviors.png)
+
 <a name="Video"></a>
 # Example of test execution in Browserstack
 ![](media/video1.gif)
